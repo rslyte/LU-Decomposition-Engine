@@ -1,0 +1,8 @@
+Ryan Slyter
+rabemensch@gmail.com
+ryan.slyter100@email.wsu.edu
+LU Decomposition Engine
+
+Usage: (in terminal) run Makefile. ./LUtest to run the program on a few different-sized matrices (the output will say what dimensions before solving). LUtest.c is the file created by Dr. Wayne O Cochran (Washington State University Vancouver C.S. Professor) which LUtest uses to test LUdecomp.c (which we were required to program for Numerical Computing CS330.
+
+The program solves matrices in-place by LU decomp and Doolittle factorization.
